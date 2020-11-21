@@ -37,6 +37,7 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 I am extremely enthusiastic to help with any project. 
 If you think I am a worthy candidate for your project or if you have any queries.
 Please feel free to reach out to me. 
+
 Here is the link to my LinkedIn: https://www.linkedin.com/in/wyne-ybanez-8a2763193
 
 
