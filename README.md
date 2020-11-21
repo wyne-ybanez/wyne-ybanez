@@ -8,7 +8,7 @@ I am currently attending a coding bootcamp called 'Code Institute'. I am also wo
 
 At the same time I am looking to pursue a Software Development Apprenticeship in Ireland with FIT (Fast Track into Technology)
 
-### What I'm diong now 📚
+### What I'm doing now 📚
 
 Here are the following coding languages and frameworks that I am learning with Code Institute:
 
