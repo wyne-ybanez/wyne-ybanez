@@ -1,6 +1,6 @@
 ## Hi there - My name is Wyne 👋 
 
-![hero-img](assets/img/hero.png)
+![hero-img](hero.png)
 
 ### About Me 👨‍💻
 
