@@ -1,5 +1,43 @@
 ## Hi there - My name is Wyne 👋 
 
+![hero-img](assets/img/hero.png)
+
+### About Me 👨‍💻
+
+I am currently attending a coding bootcamp called 'Code Institute'. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am a junior software developer.
+
+At the same time I am looking to pursue a Software Development Apprenticeship in Ireland with FIT (Fast Track into Technology)
+
+### What I'm diong now 📚
+
+Here are the following coding languages and frameworks that I am learning with Code Institute:
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript 
+- Python
+- Django
+- Flask
+- SQL
+- No SQL
+
+I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
+
+For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
+
+### Projects 💻 
+
+- Milestone 1 - Here is the link to my Personal Portfolio Website: https://wyne-ybanez.github.io/personal-portfolio-master/
+
+(More projects will be added in the near future)
+
+### Collaboration, Contacting me...👯 
+
+I am extremely enthusiastic to help with any project. 
+If you think I am a worthy candidate for your project or if you have any queries.
+Please feel free to reach out to me. 
+Here is the link to my LinkedIn: https://www.linkedin.com/in/wyne-ybanez-8a2763193
 
 
 <!--
