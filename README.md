@@ -10,7 +10,7 @@ At the same time I am looking to pursue a Software Development Apprenticeship in
 
 ### What I'm doing now 📚
 
-Here are the following coding languages and frameworks that I am learning with Code Institute:
+Here are the following coding languages and frameworks that I am learning:
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@ Here are the following coding languages and frameworks that I am learning with C
 - Django
 - Flask
 - SQL
-- No SQL
+- TailWind CSS
 
 I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
 
