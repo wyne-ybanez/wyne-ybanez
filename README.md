@@ -12,8 +12,8 @@ At the same time I am looking to pursue a Software Development Apprenticeship in
 
 Here are the following coding languages and frameworks that I am learning:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
 - JavaScript 
 - Python
@@ -21,6 +21,7 @@ Here are the following coding languages and frameworks that I am learning:
 - Flask
 - SQL
 - TailWind CSS
+- SASS
 
 I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
 
