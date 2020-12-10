@@ -12,19 +12,22 @@ At the same time I am looking to pursue a Software Development Apprenticeship in
 
 Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
 
-Here are the following coding languages and frameworks that I am learning:
+Here are the following coding languages and frameworks that I am learning for Front-End:
 
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript 
+- TailWind CSS
+- Jasmine Testing
+- Sass
+
+Languages I will be learning for Back-End:
+
 - Python
 - Django
 - Flask
-- SQL
-- TailWind CSS
-- SASS
-- Jasmine Testing
+- mySQL
 
 I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
 
