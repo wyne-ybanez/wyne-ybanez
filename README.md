@@ -24,6 +24,7 @@ Here are the following coding languages and frameworks that I am learning:
 - SQL
 - TailWind CSS
 - SASS
+- Jasmine Testing
 
 I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
 
