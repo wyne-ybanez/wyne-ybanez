@@ -10,6 +10,8 @@ At the same time I am looking to pursue a Software Development Apprenticeship in
 
 ### What I'm doing now 📚
 
+Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
+
 Here are the following coding languages and frameworks that I am learning:
 
 - HTML5
