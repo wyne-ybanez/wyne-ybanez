@@ -18,16 +18,21 @@ Here are the following coding languages and frameworks that I am learning for Fr
 - CSS3
 - Bootstrap
 - JavaScript 
-- TailWind CSS
+- Jquery
 - Jasmine Testing
-- Sass
+- REST API
 
 Languages I will be learning for Back-End:
 
 - Python
 - Django
 - Flask
-- mySQL
+- SQL
+
+I would like to learn in future: 
+
+- SASS 
+- Front End JS framework like React.js or Vue.js
 
 I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
 
