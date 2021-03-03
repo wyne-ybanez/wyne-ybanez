@@ -4,9 +4,7 @@
 
 ### About Me 👨‍💻
 
-I am currently attending a coding bootcamp called 'Code Institute'. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am a junior software developer.
-
-At the same time I am looking to pursue a Software Development Apprenticeship in Ireland with FIT (Fast Track into Technology)
+I am currently attending a coding bootcamp called 'Code Institute'. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am coding to up-skill and have fun.
 
 ### What I'm doing now 📚
 
@@ -41,6 +39,8 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 ### Projects 💻 
 
 - Milestone 1 - Here is the link to my Personal Portfolio Website: https://wyne-ybanez.github.io/personal-portfolio-master/
+
+- Milestone 2 - Here is the link to my Self-driving taxi front-end project: https://github.com/wyne-ybanez/self-driving-car-delivery
 
 (More projects will be added in the near future)
 
