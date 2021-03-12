@@ -10,14 +10,13 @@ I am currently attending a coding bootcamp called 'Code Institute'. I am also wo
 
 Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
 
-Here are the following coding languages and frameworks that I am learning for Front-End:
+Here are the following coding languages and frameworks that I am skilled at for Front-End:
 
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript 
 - Jquery
-- Jasmine Testing
 - REST API
 
 Languages I will be learning for Back-End:
