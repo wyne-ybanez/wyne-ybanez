@@ -19,7 +19,7 @@ Here are the following coding languages and frameworks that I am skilled at for 
 - Jquery
 - REST API
 
-Languages I will be learning for Back-End:
+Languages I am learning for Back-End:
 
 - Python
 - Django
@@ -31,8 +31,6 @@ I would like to learn in future:
 - SASS 
 - Front End JS framework like React.js or Vue.js
 
-I am currently building projects to improve my skills. These milestone projects will be placed in my personal website. Any honourable project mentions will also be added there. 
-
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
 
 ### Projects 💻 
@@ -41,7 +39,9 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - Milestone 2 - Here is the link to my Self-driving taxi front-end project: https://github.com/wyne-ybanez/self-driving-car-delivery
 
-(More projects will be added in the near future)
+### Group Projects 💻 
+
+- St. Patrick's day quiz: https://wyne-ybanez.github.io/st.patricks-postcard/
 
 ### Collaboration, Contacting me...👯 
 
