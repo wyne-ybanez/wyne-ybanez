@@ -4,7 +4,7 @@
 
 ### About Me 👨‍💻
 
-I am currently attending a coding bootcamp called 'Code Institute'. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am coding to up-skill and have fun.
+I am currently attending a coding bootcamp called 'Code Institute'. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am coding so that I may obtain career in the tech industry.
 
 ### What I'm doing now 📚
 
