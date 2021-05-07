@@ -15,9 +15,11 @@ Here are the following coding languages and frameworks that I am skilled at for 
 - HTML5
 - CSS3
 - Bootstrap
+- Materialize CSS
 - JavaScript 
 - Jquery
 - REST API
+- Ajax/Fetch/Axios
 
 Languages I am learning for Back-End:
 
