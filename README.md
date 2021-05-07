@@ -43,7 +43,7 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - Data-Centric Project - Here is the link to 'Papercuts': https://papercuts-project.herokuapp.com/
 
-### Group Projects 💻 
+### Group Projects 🧑‍💻
 
 - St. Patrick's day quiz: https://wyne-ybanez.github.io/st.patricks-postcard/
 
