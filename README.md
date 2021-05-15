@@ -45,7 +45,7 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 ### Group Projects 🤝 
 
-- St. Patrick's day quiz: https://wyne-ybanez.github.io/st.patricks-postcard/
+- #### [St. Patrick's day quiz](https://wyne-ybanez.github.io/st.patricks-postcard/)
 
 ### Collaboration, Contacting me...👯 
 
