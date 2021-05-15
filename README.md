@@ -12,21 +12,22 @@ Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
 
 Here are the following coding languages and frameworks that I am skilled at for Front-End:
 
-- HTML5
-- CSS3
-- Bootstrap
-- Materialize CSS
-- JavaScript 
-- Jquery
-- REST API
-- Ajax/Fetch/Axios
+- #### HTML5
+- #### CSS3
+- #### Bootstrap
+- #### Materialize CSS
+- #### JavaScript 
+- #### Jquery
+- #### REST API
+- #### Ajax/Fetch/Axios
 
-Languages I am learning for Back-End:
+For Back-End:
 
-- Python
-- Django
-- Flask
-- SQL
+- #### Python
+- #### Django
+- #### Flask
+- #### MongoDB
+- #### SQL
 
 I would like to learn in future: 
 
