@@ -10,24 +10,26 @@ I am a Software Developer in the making. I am also working as a Customer Service
 
 Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
 
-Here are the following coding languages and frameworks that I am skilled at for Front-End:
+Here are the following coding languages and frameworks that I am skilled at.
 
-- #### HTML5
-- #### CSS3
-- #### Bootstrap
-- #### Materialize CSS
-- #### JavaScript 
-- #### Jquery
-- #### REST API
-- #### Ajax/Fetch/Axios
+#### For Front-End:
 
-For Back-End:
+- HTML5
+- CSS3
+- Bootstrap
+- Materialize CSS
+- JavaScript 
+- Jquery
+- REST API
+- Ajax/Fetch/Axios
 
-- #### Python
-- #### Django
-- #### Flask
-- #### MongoDB
-- #### SQL
+#### For Back-End:
+
+- Python
+- Django
+- Flask
+- MongoDB
+- SQL
 
 I would like to learn in future: 
 
