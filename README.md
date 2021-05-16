@@ -42,7 +42,7 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
 
-- #### [Front-End Interactive Project - Self-driving taxi service](https://github.com/wyne-ybanez/self-driving-car-delivery)
+- #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
 
 - #### [Data-Centric Project - 'Papercuts'](https://papercuts-project.herokuapp.com/)
 
