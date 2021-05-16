@@ -41,14 +41,18 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 ### Projects 💻 
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
+  Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
 
 - #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
+  Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
 
 - #### [Data-Centric Project - 'Papercuts'](https://papercuts-project.herokuapp.com/)
+  Github Repo: https://github.com/wyne-ybanez/PaperCut
 
 ### Group Projects 🤝 
 
 - #### [St. Patrick's day quiz](https://wyne-ybanez.github.io/st.patricks-postcard/)
+  Github Repo: https://github.com/wyne-ybanez/st.patricks-postcard
 
 ### Collaboration, Contacting me...👯 
 
