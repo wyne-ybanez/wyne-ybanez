@@ -12,29 +12,25 @@ Learning a lot from Youtube, Stack Overflow, FreeCodeCamp and CodeInstitute!
 
 Here are the following coding languages and frameworks that I am skilled at.
 
-#### For Front-End:
+#### Front-End:
 
 - HTML5
 - CSS3
 - Bootstrap
-- Materialize CSS
+- TailwindCSS or MaterializeCSS
 - JavaScript 
+- Vue.js
 - Jquery
 - REST API
 - Ajax/Fetch/Axios
 
-#### For Back-End:
+#### Back-End:
 
 - Python
 - Django
 - Flask
 - MongoDB
 - SQL
-
-I would like to learn in future: 
-
-- SASS 
-- Front End JS framework like React.js or Vue.js
 
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
 
