@@ -17,7 +17,7 @@ Here are the following coding languages and frameworks that I am skilled at.
 - HTML5
 - CSS3
 - Bootstrap
-- TailwindCSS or MaterializeCSS
+- TailwindCSS / MaterializeCSS
 - JavaScript 
 - Vue.js
 - Jquery
