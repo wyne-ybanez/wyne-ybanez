@@ -29,7 +29,7 @@ Here are the following coding languages and frameworks that I am skilled at.
 
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
 
-### Projects 💻 
+### Main Projects 💻 
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
   Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
