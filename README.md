@@ -4,9 +4,7 @@
 
 ### About Me 👨‍💻
 
-I am a Software Developer in the making. I am also working as a Customer Service Associate at Amazon on a part-time basis so that I may continue to pursue my education in Software Development. Ideally, I am coding so that I may obtain career in the tech industry.
-
-### What I'm doing now 📚
+I am a Software Developer in the making. I am pursuing a Full-Stack Development Diploma with Code Institute. Currently I am learning Python and Django. 
 
 Here are the following coding languages and frameworks that I am skilled at.
 
@@ -17,7 +15,6 @@ Here are the following coding languages and frameworks that I am skilled at.
 - Bootstrap
 - TailwindCSS / MaterializeCSS
 - JavaScript 
-- Vue.js
 - Jquery
 - REST API
 - Ajax/Fetch/Axios
@@ -54,7 +51,9 @@ I am extremely enthusiastic to help with any project.
 If you think I am a worthy candidate for your project or if you have any queries.
 Please feel free to reach out to me. 
 
-Here is the link to my LinkedIn: https://www.linkedin.com/in/wyne-ybanez-8a2763193
+Here is the link to my **LinkedIn**: https://www.linkedin.com/in/wyne-ybanez-8a2763193
+
+### Current Stats 📊
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne-ybanez&show_icons=true&locale=en&layout=compact" alt="wyne-ybanez" /></p>
 
