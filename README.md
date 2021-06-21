@@ -44,6 +44,14 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - #### [St. Patrick's day quiz](https://wyne-ybanez.github.io/st.patricks-postcard/)
   Github Repo: https://github.com/wyne-ybanez/st.patricks-postcard
+  
+### Current Stats 📊
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne-ybanez&show_icons=true&locale=en&layout=compact" alt="wyne-ybanez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyne-ybanez&show_icons=true&locale=en" alt="wyne-ybanez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyne-ybanez&" alt="wyne-ybanez" /></p>
 
 ### Connect With Me 👯 
 
@@ -52,14 +60,6 @@ If you think I am a worthy candidate for your project or if you have any queries
 Please feel free to reach out to me. 
 
 Here is the link to my **LinkedIn**: https://www.linkedin.com/in/wyne-ybanez-8a2763193
-
-### Current Stats 📊
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne-ybanez&show_icons=true&locale=en&layout=compact" alt="wyne-ybanez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyne-ybanez&show_icons=true&locale=en" alt="wyne-ybanez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyne-ybanez&" alt="wyne-ybanez" /></p>
 
 
 <!--
