@@ -29,7 +29,7 @@ Here are the following coding languages and frameworks that I am skilled at.
 
 #### Deployment and Version control:
 
-- Git
+- Git/Github
 - Heroku
 
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
