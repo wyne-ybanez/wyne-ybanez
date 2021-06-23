@@ -27,6 +27,11 @@ Here are the following coding languages and frameworks that I am skilled at.
 - MongoDB
 - SQL
 
+#### Deployment and Version control:
+
+- Git
+- Heroku
+
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
 
 ### Main Projects 💻 
