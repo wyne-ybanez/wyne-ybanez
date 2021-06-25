@@ -1,4 +1,4 @@
-## Hi there - My name is Wyne 👋 
+# Hi there - My name is Wyne 👋 
 
 ![hero-img](Github-Profile.png)
 
