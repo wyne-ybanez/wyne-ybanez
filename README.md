@@ -8,28 +8,21 @@ I am a Software Developer in the making. I am pursuing a Full-Stack Development 
 
 Here are the following coding languages and frameworks that I am skilled at.
 
-#### Front-End:
+#### Technical Skills
 
-- HTML5
-- CSS3
-- Bootstrap
-- TailwindCSS / MaterializeCSS
+- HTML5 & CSS3
+- Bootstrap/ TailwindCSS / MaterializeCSS
 - JavaScript 
 - Jquery
 - REST API
 - Ajax/Fetch/Axios
-
-#### Back-End:
-
 - Python
 - Django
 - Flask
-- MongoDB
+- NoSQL/MongoDB
 - SQL
-
-#### Deployment and Version control:
-
-- Git/Github
+- Git
+- Github
 - Heroku
 
 For the validation of this bootcamp. The bootcamp awards a University Creditted Diploma in Software Development. This is association with Edinburgh Napier University. 
@@ -38,12 +31,15 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
   Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
+  Languages: HTML & CSS
 
 - #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
   Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
+  Languages: HTML, CSS, JS
 
 - #### [Data-Centric Project - 'Papercuts'](https://papercuts-project.herokuapp.com/)
   Github Repo: https://github.com/wyne-ybanez/PaperCut
+  Languages: HTML, CSS, JS, jQuery, Python, Flask, MongoDB, Heroku
 
 ### Group Projects 🤝 
 
