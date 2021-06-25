@@ -31,15 +31,15 @@ For the validation of this bootcamp. The bootcamp awards a University Creditted 
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
   Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
-  Languages: HTML & CSS
+  <br> Languages: HTML & CSS
 
 - #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
   Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
-  Languages: HTML, CSS, JS
+  <br> Languages: HTML, CSS, JS
 
 - #### [Data-Centric Project - 'Papercuts'](https://papercuts-project.herokuapp.com/)
   Github Repo: https://github.com/wyne-ybanez/PaperCut
-  Languages: HTML, CSS, JS, jQuery, Python, Flask, MongoDB, Heroku
+  <br> Languages: HTML, CSS, JS, jQuery, Python, Flask, MongoDB, Heroku
 
 ### Group Projects 🤝 
 
