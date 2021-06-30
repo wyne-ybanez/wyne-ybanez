@@ -29,7 +29,7 @@ Here are the following coding languages and frameworks that I am skilled at.
 
 - #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
   Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
-  <br> Languages: HTML & CSS
+  <br> Languages: HTML, CSS, JS
 
 - #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
   Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
