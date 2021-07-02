@@ -6,7 +6,7 @@
 
 I am a Software Developer in the making. I am pursuing a Full-Stack Development Diploma with Code Institute. Currently I am learning Python and Django. 
 
-Previously a Bar-tender, Customer Service Associate. Began coding and have never turned back.
+Previously, an Arts graduate, a Bar-tender, Customer Service Associate. Began coding and have never turned back.
 
 #### Technical Skills
 
