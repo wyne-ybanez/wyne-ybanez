@@ -60,7 +60,7 @@ Previously an Arts graduate, a Bar-tender, Customer Service Associate. Began cod
   
 ### Current Stats 📊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne-ybanez&show_icons=true&locale=en&layout=compact" alt="wyne-ybanez" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne-ybanez&show_icons=true&locale=en&layout=compact" alt="wyne-ybanez" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyne-ybanez&show_icons=true&locale=en" alt="wyne-ybanez" /></p>
 
