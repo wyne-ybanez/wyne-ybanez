@@ -49,8 +49,8 @@ Previously an Arts graduate, a Bar-tender, Customer Service Associate. Began cod
   Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
   <br> Languages: HTML, CSS, JS
 
-- #### [Data-Centric Project - 'Papercuts'](https://papercuts-project.herokuapp.com/)
-  Github Repo: https://github.com/wyne-ybanez/PaperCut
+- #### [Data-Centric Project - 'Papercuts'](https://papercuts-main.herokuapp.com/)
+  Github Repo: https://github.com/wyne-ybanez/PaperCut/tree/main
   <br> Languages: HTML, CSS, JS, jQuery, Python, Flask, MongoDB, Heroku
 
 ### Group Projects 🤝 
