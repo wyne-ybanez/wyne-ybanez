@@ -72,7 +72,7 @@ Previously an Arts graduate, a Bar-tender, Customer Service Associate. Began cod
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyne-ybanez&" alt="wyne-ybanez" /></p>
 
-### Connect With Me 👯 
+### Connect With Me 📫  
 
 I am extremely enthusiastic to help with any project. 
 If you think I am a worthy candidate for your project or if you have any queries.
