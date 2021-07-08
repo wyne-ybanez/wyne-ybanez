@@ -41,16 +41,19 @@ Previously an Arts graduate, a Bar-tender, Customer Service Associate. Began cod
 
 ### Main Projects 💻 
 
-- #### [Personal Portfolio Project](https://wyne-ybanez.github.io/personal-portfolio-master/)
+- #### [Personal Portfolio Project](https://github.com/wyne-ybanez/personal-portfolio-master)
   Github Repo: https://github.com/wyne-ybanez/personal-portfolio-master
+  Live Deployment: https://wyne-ybanez.github.io/personal-portfolio-master/
   <br> Languages: HTML, CSS, JS
 
-- #### [Front-End Interactive Project - Self-driving taxi service](https://wyne-ybanez.github.io/self-driving-car-delivery/)
+- #### [Front-End Interactive Project - Self-driving taxi service](https://github.com/wyne-ybanez/self-driving-car-delivery)
   Github Repo: https://github.com/wyne-ybanez/self-driving-car-delivery
+  Live Deployment: https://wyne-ybanez.github.io/self-driving-car-delivery/
   <br> Languages: HTML, CSS, JS
 
-- #### [Data-Centric Project - 'Papercuts'](https://papercuts-main.herokuapp.com/)
+- #### [Data-Centric Project - 'Papercuts'](https://github.com/wyne-ybanez/PaperCut/tree/main)
   Github Repo: https://github.com/wyne-ybanez/PaperCut/tree/main
+  Live Deployment: https://papercuts-main.herokuapp.com/
   <br> Languages: HTML, CSS, JS, jQuery, Python, Flask, MongoDB, Heroku
 
 ### Group Projects 🤝 
