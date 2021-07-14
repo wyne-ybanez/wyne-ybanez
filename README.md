@@ -63,6 +63,9 @@ Previously an Arts graduate, a Bar-tender, Customer Service Associate. Began cod
 
 - #### [St. Patrick's day quiz](https://wyne-ybanez.github.io/st.patricks-postcard/)
   Github Repo: https://github.com/wyne-ybanez/st.patricks-postcard
+  <br>
+  Live Deployment:https://wyne-ybanez.github.io/st.patricks-postcard/
+  <br> Languages: HTML, CSS, JS, jQuery
   
 ### Current Stats 📊
 
